@@ -39,7 +39,7 @@
     "prepublishOnly": "pnpm build"
   },
   "peerDependencies": {
-    "nuxt": "^3.8.1",
+    "nuxt": "^3.8.2",
     "vite": "*"
   },
   "dependencies": {
@@ -75,7 +75,7 @@
     "semver": "^7.5.4",
     "simple-git": "^3.21.0",
     "sirv": "^2.0.3",
-    "unimport": "^3.5.0",
+    "unimport": "^3.6.0",
     "vite-plugin-inspect": "^0.7.42",
     "vite-plugin-vue-inspector": "^4.0.0",
     "which": "^3.0.1",
@@ -87,7 +87,7 @@
     "@iconify-json/logos": "^1.1.38",
     "@iconify-json/ri": "^1.1.12",
     "@iconify-json/simple-icons": "^1.1.79",
-    "@iconify-json/tabler": "^1.1.97",
+    "@iconify-json/tabler": "^1.1.98",
     "@nuxt/content": "^2.9.0",
     "@nuxt/devtools": "workspace:*",
     "@nuxtjs/color-mode": "^3.3.2",
@@ -102,14 +102,14 @@
     "esno": "^4.0.0",
     "floating-vue": "2.0.0-beta.24",
     "fuse.js": "^7.0.0",
-    "json-editor-vue": "^0.11.0",
+    "json-editor-vue": "^0.11.1",
     "markdown-it": "^13.0.2",
     "markdown-it-link-attributes": "^4.0.1",
     "nanoid": "^5.0.3",
     "nuxt": "^3.8.2",
     "nuxt-vitest": "^0.11.5",
     "quicktype-core": "^23.0.79",
-    "shikiji": "^0.6.13",
+    "shikiji": "^0.7.3",
     "theme-vitesse": "^0.7.3",
     "ua-parser-js": "^1.0.37",
     "unocss": "^0.57.7",
